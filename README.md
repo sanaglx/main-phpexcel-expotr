@@ -16,3 +16,7 @@ Mian PHPExcel Export Plugin for WordPress
 
 1. Upload `main-phpexcel-export` folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
+
+Плагин для  WooCommerce.
+Експорт прайс листа по всем товарам ,
+добавляет  принадлежностью к категориям .
